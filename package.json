@@ -1,0 +1,24 @@
+{
+    "name": "metaserve-html-mustache",
+    "version": "0.0.1",
+    "description": "metaserve plugin for rendering HTML with Mustache",
+    "homepage": "http://github.com/prontotype-us/metaserve-html-mustache",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/prontotype-us/metaserve-html-mustache.git"
+    },
+    "author": {
+        "name": "Sean Robertson",
+        "url": "http://sprobertson.com"
+    },
+    "main": "lib/index.js",
+    "dependencies": {
+        "metaserve": "0.3.x",
+        "mustache": "1.0.x"
+    },
+    "keywords": [
+        "metaserve",
+        "mustache"
+    ]
+}
+
